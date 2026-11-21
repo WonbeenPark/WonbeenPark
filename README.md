@@ -17,7 +17,7 @@ I work on **optimization**: mathematical modeling and heuristics, applied to log
 - S. Lee, J. Lee, **W. Park**, S. Yun, J. Kim, D. Kim (2024). A study on the estimation of optimal ESS capacity for target curtailment rates in Jeju through an economic dispatch model. *Journal of Environmental Policy and Administration*, 32(4), 167–199 (in Korean). [doi](https://doi.org/10.15301/jepa.2024.32.4.167)
 
 **International Conferences**
-- **W. Park** (2026). Deep reinforcement learning with penalties for vehicle routing with backhauls. *2026 INFORMS Annual Meeting*, San Francisco, CA, USA.
+- **W. Park**, D. Kim (2026). Deep reinforcement learning with penalties for vehicle routing with backhauls. *2026 INFORMS Annual Meeting*, San Francisco, CA, USA.
 - **W. Park** et al. (2024). Outlier detection using a leave-one-out cross-validation approach with the goodness-of-the-fit test based on the empirical distribution function. *2024 Management Innovation Conference: Frontier of Technology, Intelligence and Analytics*, Busan, Korea.
 
 **Domestic Conferences**
@@ -26,7 +26,7 @@ I work on **optimization**: mathematical modeling and heuristics, applied to log
 
 #### 🔬 Research interests
 
-`Mathematical optimization` · `Mixed integer programming` · `Heuristics` · `Scheduling` · `Energy systems`
+`Mathematical optimization` · `Mixed integer programming` · `Heuristics` · `Scheduling` · `Vehicle routing` · `Reinforcement learning` · `Energy systems`
 
 #### 📫 Contact
 
