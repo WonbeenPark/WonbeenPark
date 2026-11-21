@@ -3,9 +3,9 @@
 PhD student in Industrial Data Science & Engineering, Department of Industrial Engineering, **Pusan National University** (Risk Analytics Lab, advisor: Prof. Dowon Kim), Busan, South Korea.
 I work on **optimization**: mathematical modeling and heuristics, applied to logistics, transportation and energy systems.
 
-- 🏆 **Advanced Optimizer Award**, Optimization Grand Challenge 2026 (LG CNS × KIIE): **7th place among 958 teams from 55 countries** (Team BONOBONO)
+- 🏆 **Advanced Optimizer Award**, [Optimization Grand Challenge 2026](https://optichallenge.com/leaderboard) (LG CNS × KIIE): **7th place among 958 teams from 55 countries** (Team BONOBONO)
 - ⚡ Previously: Research Assistant, Electricity Policy Research Team, Korea Energy Economics Institute (2020–2022)
-- 📄 **CV:** [English (PDF)](https://github.com/WonbeenPark/WonbeenPark/blob/main/cv/CV_WonbeenPark_EN.pdf) · [Korean (PDF)](https://github.com/WonbeenPark/WonbeenPark/blob/main/cv/CV_WonbeenPark_KR.pdf)
+- 🌐 **Homepage & CV:** [wonbeenpark.github.io](https://wonbeenpark.github.io)
 
 #### 📄 Publications
 
