@@ -1,6 +1,6 @@
 ### Hi, I'm Wonbeen Park 👋
 
-PhD student in Industrial Data Science & Engineering, Department of Industrial Engineering, **Pusan National University** (Risk Analytics Lab, advisor: Prof. Dowon Kim), Busan, Korea.
+PhD student in Industrial Data Science & Engineering, Department of Industrial Engineering, **Pusan National University** (Risk Analytics Lab, advisor: Prof. Dowon Kim), Busan, Republic of Korea.
 I work on **optimization**: mathematical modeling and heuristics, applied to logistics, transportation and energy systems.
 
 - 🏆 **Advanced Optimizer Award**, Optimization Grand Challenge 2026 (LG CNS × KIIE): **7th place among 958 teams from 55 countries** (Team BONOBONO)
@@ -18,11 +18,11 @@ I work on **optimization**: mathematical modeling and heuristics, applied to log
 
 **International Conferences**
 - **W. Park**, D. Kim (2026). Deep reinforcement learning with penalties for vehicle routing with backhauls. *2026 INFORMS Annual Meeting*, San Francisco, CA, USA.
-- **W. Park** et al. (2024). Outlier detection using a leave-one-out cross-validation approach with the goodness-of-the-fit test based on the empirical distribution function. *2024 Management Innovation Conference: Frontier of Technology, Intelligence and Analytics*, Busan, Korea.
+- **W. Park** et al. (2024). Outlier detection using a leave-one-out cross-validation approach with the goodness-of-the-fit test based on the empirical distribution function. *2024 Management Innovation Conference: Frontier of Technology, Intelligence and Analytics*, Busan, Republic of Korea.
 
 **Domestic Conferences**
-- J. Kim, **W. Park**, D. Kim (2026). Improving container terminal operations through single yard crane scheduling with temporary storage. *2026 Spring Joint Conference of KIIE, KORMS and KSS*, Gyeongju (in Korean).
-- **W. Park** et al. (2024). Outlier detection based on noise removal via normality testing and its application to X-bar control charts. *2024 Fall Joint Conference of KSQM and KORS*, Gyeongju (in Korean).
+- J. Kim, **W. Park**, D. Kim (2026). Improving container terminal operations through single yard crane scheduling with temporary storage. *2026 Spring Joint Conference of KIIE, KORMS and KSS*, Gyeongju, Republic of Korea (in Korean).
+- **W. Park** et al. (2024). Outlier detection based on noise removal via normality testing and its application to X-bar control charts. *2024 Fall Joint Conference of KSQM and KORS*, Gyeongju, Republic of Korea (in Korean).
 
 #### 🔬 Research interests
 
