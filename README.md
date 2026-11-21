@@ -9,12 +9,12 @@ I work on **optimization**: mathematical modeling and heuristics, applied to log
 #### 📄 Publications
 
 **International Journals**
-- J. Kim, **W. Park**, D. Kim (2026). Preemptive scheduling of a single yard crane for terminal efficiency. *Annals of Operations Research*. [doi](https://doi.org/10.1007/s10479-026-07474-6)
-- **W. Park**, J. Kim, T. Jin, D. Kim (2026). Revisiting the total cost of ownership incorporating inconvenience costs. *Research in Transportation Business & Management*, 68, 101801. [doi](https://doi.org/10.1016/j.rtbm.2026.101801)
-- D. Kim, **W. Park**, T. Jin (2025). Evaluating global carbon neutrality commitments: An integrated assessment model approach to the 2 °C target. *Environmental Science & Policy*, 174, 104280. [doi](https://doi.org/10.1016/j.envsci.2025.104280)
+- J. Kim, **W. Park**, D. Kim (2026). Preemptive scheduling of a single yard crane for terminal efficiency. *Annals of Operations Research*. DOI: [10.1007/s10479-026-07474-6](https://doi.org/10.1007/s10479-026-07474-6)
+- **W. Park**, J. Kim, T. Jin, D. Kim (2026). Revisiting the total cost of ownership incorporating inconvenience costs. *Research in Transportation Business & Management*, 68, 101801. DOI: [10.1016/j.rtbm.2026.101801](https://doi.org/10.1016/j.rtbm.2026.101801)
+- D. Kim, **W. Park**, T. Jin (2025). Evaluating global carbon neutrality commitments: An integrated assessment model approach to the 2 °C target. *Environmental Science & Policy*, 174, 104280. DOI: [10.1016/j.envsci.2025.104280](https://doi.org/10.1016/j.envsci.2025.104280)
 
 **Domestic Journals**
-- S. Lee, J. Lee, **W. Park**, S. Yun, J. Kim, D. Kim (2024). A study on the estimation of optimal ESS capacity for target curtailment rates in Jeju through an economic dispatch model. *Journal of Environmental Policy and Administration*, 32(4), 167–199 (in Korean). [doi](https://doi.org/10.15301/jepa.2024.32.4.167)
+- S. Lee, J. Lee, **W. Park**, S. Yun, J. Kim, D. Kim (2024). A study on the estimation of optimal ESS capacity for target curtailment rates in Jeju through an economic dispatch model. *Journal of Environmental Policy and Administration*, 32(4), 167–199 (in Korean). DOI: [10.15301/jepa.2024.32.4.167](https://doi.org/10.15301/jepa.2024.32.4.167)
 
 **International Conferences**
 - **W. Park**, D. Kim (2026). Deep reinforcement learning with penalties for vehicle routing with backhauls. *2026 INFORMS Annual Meeting*, San Francisco, CA, USA.
