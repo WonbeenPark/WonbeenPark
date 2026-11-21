@@ -9,7 +9,7 @@ I work on **optimization**: mathematical modeling and heuristics, applied to log
 
 #### 📄 Publications
 
-**International Journals** (\* equal contribution)
+**International Journals** (\* co-first authors)
 - J. Kim\*, **W. Park\***, D. Kim (2026). Preemptive scheduling of a single yard crane for terminal efficiency. *Annals of Operations Research*. DOI: [10.1007/s10479-026-07474-6](https://doi.org/10.1007/s10479-026-07474-6)
 - **W. Park**, J. Kim, T. Jin, D. Kim (2026). Revisiting the total cost of ownership incorporating inconvenience costs. *Research in Transportation Business & Management*, 68, 101801. DOI: [10.1016/j.rtbm.2026.101801](https://doi.org/10.1016/j.rtbm.2026.101801)
 - D. Kim, **W. Park**, T. Jin (2025). Evaluating global carbon neutrality commitments: An integrated assessment model approach to the 2 °C target. *Environmental Science & Policy*, 174, 104280. DOI: [10.1016/j.envsci.2025.104280](https://doi.org/10.1016/j.envsci.2025.104280)
