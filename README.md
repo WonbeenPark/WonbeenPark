@@ -21,8 +21,8 @@ I work on **optimization**: mathematical modeling and heuristics, applied to log
 - **W. Park** et al. (2024). Outlier detection using a leave-one-out cross-validation approach with the goodness-of-the-fit test based on the empirical distribution function. *2024 Management Innovation Conference: Frontier of Technology, Intelligence and Analytics*, Busan, South Korea.
 
 **Domestic Conferences**
-- J. Kim, **W. Park**, D. Kim (2026). Improving container terminal operations through single yard crane scheduling with temporary storage. *2026 Spring Joint Conference of KIIE, KORMS and KSS*, Gyeongju, South Korea (in Korean).
-- **W. Park** et al. (2024). Outlier detection based on noise removal via normality testing and its application to X-bar control charts. *2024 Fall Joint Conference of KSQM and KORS*, Gyeongju, South Korea (in Korean).
+- J. Kim, **W. Park**, D. Kim (2026). Improving container terminal operations through single yard crane scheduling with temporary storage. *2026 Joint Spring Conference of the Korean Institute of Industrial Engineers (KIIE), the Korean Operations Research and Management Science Society (KORMS), and the Korea Society for Simulation (KSS)*, Gyeongju, South Korea (in Korean).
+- **W. Park** et al. (2024). Outlier detection based on noise removal via normality testing and its application to X-bar control charts. *2024 Joint Fall Conference of the Korean Society for Quality Management (KSQM) and the Korean Reliability Society (KORAS)*, Gyeongju, South Korea (in Korean).
 
 #### 🔬 Research interests
 
